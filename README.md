@@ -1,5 +1,5 @@
 # What is
-CT画像を読み込み, 画像処理を用いてアノテーションを行うスクリプト.
+CT画像を読み込み, 画像処理を用いてアノテーションを効率的に行うスクリプト.
 ![output](https://user-images.githubusercontent.com/65318542/131350047-7a383897-d142-4e75-9eb8-d17585528228.gif)
 
 # How to Use
