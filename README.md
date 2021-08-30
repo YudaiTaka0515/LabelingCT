@@ -1,4 +1,6 @@
-# AnnotationGUI 使用方法
+# What is
+CT画像を読み込み, 画像処理を用いてアノテーションを行うGUIプログラム
+# How to Use
 
 ## 使用前の注意
 
